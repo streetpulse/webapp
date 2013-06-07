@@ -1,0 +1,8 @@
+files version are:
+
+ember-1.0.0-rc.5
+ember-data-0.13
+handlebars-1.0.0-rc.4
+jquery-1.9.1
+Chart.js
+moment.js 2.0.0
